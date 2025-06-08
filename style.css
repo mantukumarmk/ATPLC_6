@@ -1,0 +1,33 @@
+body {
+    font-family:sans-serif;
+    background-color:#d5d6cb;
+    padding:10px;
+}
+
+.title {
+    text-align: center;
+    font-size:30px;
+    margin-bottom:5px;
+    color:#242222;
+	text-decoration:underline;
+}
+
+table {
+    width:90%;
+	height:500px;
+    margin: auto;
+    border-collapse: collapse;
+    background-color:#ebc5e7;
+    
+}
+
+th, td {
+    border: 3px solid black;
+    padding: 6px 10px;
+    text-align: center;
+}
+
+th {
+    background-color: #3f51b5;
+    color: white;
+}
